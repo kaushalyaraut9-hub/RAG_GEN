@@ -34,7 +34,6 @@ Knowledge retrieval systems for organizations
 ┗ 📂 data/
 ┗ sample_document.txt
 
-Copy code
 ## 📈 Results
 - Improved factual accuracy compared to standalone LLM responses.
 - Reduced hallucination rate due to context retrieval.
